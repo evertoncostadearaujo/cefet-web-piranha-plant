@@ -1,0 +1,22 @@
+#body_loja {
+    background-image: url(../imagens/desenho-loucao.jpg);
+    background-size: cover;
+}
+
+table {
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(75, 75, 75);
+    color: white;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}

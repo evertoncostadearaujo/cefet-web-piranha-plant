@@ -1,0 +1,18 @@
+blockquote {
+    margin-left: 60px;
+}
+
+#vocesabia {
+    background-image: url(../imagens/fundo.png);
+    border: 3px solid limegreen;
+    padding: 10px;
+}
+
+img {
+    size: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid limegreen;
+    border-radius: 8px
+}
